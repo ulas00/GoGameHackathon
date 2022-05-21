@@ -5,6 +5,7 @@ sol_hareket = keyboard_check(ord("A"));
 sag_hareket = keyboard_check(ord("D"));
 ziplama = keyboard_check_pressed(ord("W"));
 ates = keyboard_check_pressed(ord("F"));
+kalkan = keyboard_check(ord("G"));
 var hareket = sag_hareket - sol_hareket;
 yatay_hiz = hareket*player_speed;	
 
@@ -103,7 +104,17 @@ if(ates) and (nball_time_left <= 0){
 
 
 
+
+
+
+
+
+
+
 //Zort
+
+
+
 }
 
 if(player_health == 0 ) {

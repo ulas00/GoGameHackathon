@@ -42,7 +42,6 @@
     {"id":{"name":"spr_mc_run","path":"sprites/spr_mc_run/spr_mc_run.yy",},"order":2,},
     {"id":{"name":"spr_fireball_exp","path":"sprites/spr_fireball_exp/spr_fireball_exp.yy",},"order":9,},
     {"id":{"name":"sqc_","path":"sequences/sqc_/sqc_.yy",},"order":2,},
-    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"spr_fireball","path":"sprites/spr_fireball/spr_fireball.yy",},"order":8,},
     {"id":{"name":"spr_enemy_drone2_move","path":"sprites/spr_enemy_drone2_move/spr_enemy_drone2_move.yy",},"order":5,},
     {"id":{"name":"spr_enemy_drone1_idle","path":"sprites/spr_enemy_drone1_idle/spr_enemy_drone1_idle.yy",},"order":0,},

@@ -19,4 +19,6 @@ player_alive = true
 //Skillset
 nball_cooldown = 5
 nball_time_left = 0
+nshield_cd = 7
+nshield_tl = 0
 
