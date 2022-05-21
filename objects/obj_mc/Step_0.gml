@@ -106,7 +106,9 @@ if(ates) and (nball_time_left <= 0){
 //Zort
 }
 
-
+if(player_health == 0 ) {
+	obj_mc.visible = false
+}
 
 
 

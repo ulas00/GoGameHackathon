@@ -1,7 +1,7 @@
 
 enemy_health = 1
-drone_speed = 5
-grvty = 0.3;
+drone_speed = 2
+
 
 
 image_xscale = 2
